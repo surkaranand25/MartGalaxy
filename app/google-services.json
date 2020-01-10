@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982540486381",
+    "firebase_url": "https://martgalaxy-59040.firebaseio.com",
+    "project_id": "martgalaxy-59040",
+    "storage_bucket": "martgalaxy-59040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982540486381:android:e4ce3925e2bc1e8a32aee4",
+        "android_client_info": {
+          "package_name": "com.example.martgalaxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982540486381-qfmo06a3fure3jk85icpa1jja81qatv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.martgalaxy",
+            "certificate_hash": "2e6454a1d216f1bddf134d15872ab058dd8826ff"
+          }
+        },
+        {
+          "client_id": "982540486381-qc9n680rfatj4t0sf2bv8s3mg94jtug9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjO0g3Dw39HtCaJQY4RLlehmB25hBnaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982540486381-qc9n680rfatj4t0sf2bv8s3mg94jtug9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
